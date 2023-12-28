@@ -55,7 +55,6 @@ class AboutPage extends StatelessWidget {
                 DeveloperInfo(name: 'Akbar Ragil Pangestu'),
                 DeveloperInfo(name: 'Berliani Nasywa Fitri'),
                 DeveloperInfo(name: 'Muhamad Rizal Rifaldi'),
-                DeveloperInfo(name: 'Jumhadi'),
               ],
             ),
           ),
